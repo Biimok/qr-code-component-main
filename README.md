@@ -19,8 +19,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/responsive-landing-page-using-css-flexbox-and-simple-html-Q-Iy7DvN97)
+- Live Site URL: [Github page](https://biimok.github.io/qr-code-component-main/)
 
 ## My process
 
